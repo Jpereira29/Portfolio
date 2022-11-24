@@ -2,6 +2,11 @@ import { Project } from "../Types/Project";
 
 export const projects: Project[] = [
     {
+        name: 'ApiShop',
+        description: 'Este projeto consiste em uma API feita nos padrões RESTFull, seguindo o modelo de uma loja virtual.',
+        repository: 'https://github.com/Jpereira29/ApiShop'
+    },
+    {
         name: 'API Catalogo',
         description: 'API REST feita com .NET Core.',
         repository: 'https://github.com/Jpereira29/APICatalogo'
