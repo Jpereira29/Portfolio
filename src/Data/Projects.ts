@@ -2,6 +2,11 @@ import { Project } from "../Types/Project";
 
 export const projects: Project[] = [
     {
+        name: 'Product Scraping',
+        description: 'Este projeto realiza o scraping da página openfoodfacts e retorna os dados de cada produto.',
+        repository: 'https://github.com/Jpereira29/Product-Scraping'
+    },
+    {
         name: 'ApiShop',
         description: 'Este projeto consiste em uma API feita nos padrões RESTFull, seguindo o modelo de uma loja virtual.',
         repository: 'https://github.com/Jpereira29/ApiShop'
