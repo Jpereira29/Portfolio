@@ -1,6 +1,7 @@
 <template>
   <div>
     <Header />
+    <AboutCard />
   </div>
 </template>
 
@@ -11,6 +12,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #18191C;
+  background: #18191c;
+  color: #fff;
 }
 </style>
